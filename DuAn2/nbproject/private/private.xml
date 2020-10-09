@@ -6,7 +6,9 @@
             <file>file:/D:/Database/duan2.git/trunk/DuAn2/src/com/dao/SanPhamDAO.java</file>
             <file>file:/D:/Database/duan2.git/trunk/DuAn2/src/com/client/SanPhamFrame.java</file>
             <file>file:/D:/Database/duan2.git/trunk/DuAn2/src/com/model/SanPham.java</file>
-            <file>file:/D:/Database/duan2.git/trunk/DuAn2/src/com/admin/MainForm.java</file>
+            <file>file:/D:/Database/duan2.git/trunk/DuAn2/src/com/dao/NhomSanPhamDAO.java</file>
+            <file>file:/D:/Database/duan2.git/trunk/DuAn2/src/com/model/NhomSanPham.java</file>
+            <file>file:/D:/Database/duan2.git/trunk/DuAn2/src/com/client/NhomSanPhamFrame.java</file>
         </group>
     </open-files>
 </project-private>
